@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-particle.png" alt="Original Particle Figure Artwork — Adli Hakimarzuq Sabekti" width="100%" />
+  <img src="./assets/hero-particle.png" alt="Original Particle Figure Artwork — Adli Hakimarzuq Sabekti" width="820" />
 
   <br/><br/>
 
@@ -64,7 +64,7 @@ const adli = {
 <br/>
 
 <div align="center">
-  <img src="./assets/footer-portal.png" alt="Original Keyhole Portal Artwork" width="100%" />
+  <img src="./assets/footer-portal.png" alt="Original Keyhole Portal Artwork" width="820" />
   <br/><br/>
   <sub><i>"In shadow, form is remembered. Stay rare."</i></sub>
   <br/><br/>
